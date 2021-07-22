@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		05E46E3B26A953DC0091B4A9 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05E46E3A26A953DC0091B4A9 /* Package.swift */; };
 		961B5F0A2147A9BD00067B6E /* ResultTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961B5F092147A9BD00067B6E /* ResultTests.swift */; };
 		961F547E213F9FC600665150 /* StringValueMatchRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961F547D213F9FC600665150 /* StringValueMatchRule.swift */; };
 		961F5480213FB35700665150 /* PaymentCardRule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961F547F213FB35700665150 /* PaymentCardRule.swift */; };
@@ -53,7 +52,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		05E46E3A26A953DC0091B4A9 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		961B5F092147A9BD00067B6E /* ResultTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultTests.swift; sourceTree = "<group>"; };
 		961F547D213F9FC600665150 /* StringValueMatchRule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringValueMatchRule.swift; sourceTree = "<group>"; };
 		961F547F213FB35700665150 /* PaymentCardRule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentCardRule.swift; sourceTree = "<group>"; };
@@ -139,7 +137,6 @@
 		964F77FD2136B750004A6017 = {
 			isa = PBXGroup;
 			children = (
-				05E46E3A26A953DC0091B4A9 /* Package.swift */,
 				964F78092136B750004A6017 /* ATGValidator */,
 				964F78142136B750004A6017 /* ATGValidatorTests */,
 				964F78082136B750004A6017 /* Products */,
@@ -373,7 +370,6 @@
 				96554D1E213807FD0089FF5C /* Validatable.swift in Sources */,
 				96554D19213807BB0089FF5C /* Result.swift in Sources */,
 				961F548221400F6900665150 /* PaymentCardType.swift in Sources */,
-				05E46E3B26A953DC0091B4A9 /* Package.swift in Sources */,
 				96554D1A213807BB0089FF5C /* Rule.swift in Sources */,
 				96554D382138257A0089FF5C /* UITextField+ATGValidator.swift in Sources */,
 				9652449D213EC2F900EE298B /* StringRegexRule.swift in Sources */,
